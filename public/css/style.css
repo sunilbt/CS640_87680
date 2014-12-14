@@ -1,0 +1,26 @@
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.align{
+  margin-bottom: 20px;
+}
+
+.profileLeftSideContent{
+  text-align: justify;
+}
+
+.box{
+ height: 100%;
+ border-left: 1px solid #eee;
+ padding-left: 5%;
+}
+
+.err p{
+color: #ff0000;
+}
+
+.success p{
+color: #00ff00;
+}
